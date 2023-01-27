@@ -7,6 +7,10 @@ https://app.pluralsight.com/library/courses/nodejs-express-web-applications-buil
 
 How to build from scratch  routing, databases, and third-party APIs in Node.js and Express.
 
+Remember to update package.json
+"ejs": "^3.1.8",
+ "express": "4.18.2",
+
 
 
 cd directory
