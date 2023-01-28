@@ -12,7 +12,6 @@ Remember to update package.json
  "express": "4.18.2",
 
 
-
 cd directory
 
 	nvm install ‑‑lts 
@@ -43,6 +42,10 @@ npm install
 npm audit fix (Updates nodemon, suggests express update)
 npm start
 http://localhost:4000/
+
+---------
+
+Add static and ejs files /public
 
 
 
